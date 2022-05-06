@@ -1,0 +1,42 @@
+<skills>
+ <Theory>
+  <basicTheory>SDLC</basicTheory>
+  <basicTheory>STLC</basicTheory>
+  <basicTheory>different testing types and levels</basicTheory>
+  <basicTheory>Bug life cycle</basicTheory>
+  <testingDocumentation>test cases</testingDocumentation>
+  <testingDocumentation>check lists</testingDocumentation>
+  <testingDocumentation>user stories</testingDocumentation>
+  <testingDocumentation>use cases</testingDocumentation>
+  <testingDocumentation>bug reports</testingDocumentation>
+ </Theory>
+ <TestDesignTechniques>
+  <BlackBoxTechniques>Equivalence Partitioning</BlackBoxTechniques>
+  <BlackBoxTechniques>Boundary-Value Analysis</BlackBoxTechniques>
+  <BlackBoxTechniques>Decision Table Testing</BlackBoxTechniques>
+  <BlackBoxTechniques>Pairwise testing</BlackBoxTechniques>
+  <BlackBoxTechniques>State-Transition Testing</BlackBoxTechniques>
+ </TestDesignTechniques>
+ <TestManagementTools>
+  <Tool>Jira</Tool>
+  <Tool>TestLink</Tool>
+  <Tool>Trello</Tool>
+ </TestManagementTools>
+ <API>
+  <Theory>client-server architecture</Theory>
+  <Tool>Postman</Tool>
+ </API>
+ <DataBases>
+  <RelationalDataBases>SQL</RelationalDataBases>
+ </DataBases>
+ <Programming>
+  <Languages>JavaScript</Languages>
+  <Tool>Visual Studio Code</Tool>
+  <Library>Chai</Library>
+ </Programming>
+ <Terminal>Git Bash</Terminal>
+ <PerformanceTesting>
+  <Tool>JMeter</Tool>
+  <Tool>BlazeMeter</Tool>
+ </PerformanceTesting>
+</skills>
