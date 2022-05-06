@@ -1,0 +1,19 @@
+<bugreport>
+ <bugID>HP1.1</bugID>
+ <title>Home Page - Navigation Bar - "Sign in" button isn't responding</title>
+ <description>When the user tried to sigh in from the home page by clicking on the "Sign in" button nothing is happened</description>
+ <stepsToReproduce>
+  <Step1>Open the home page</Step1>
+  <Step2>Click the drop-down menu in the navigation bar</Step2>
+  <Step3>Enter valid email address</Step3>
+  <Step4>Click on the ""Sigh in" button</Step4>
+ </stepsToReproduce>
+ <expectedResult>When the user click on the "Sign in" button, profile page is opened</expectedResult>
+ <actualResult>When the user click on the "Sign in" button, nothing is happened</actualResult>
+ <Environment>
+  <OperatingSystem>Windows</OperatingSystem>
+  <Browser>Google Chrome 101</Browser> 
+ </Environment>
+ <Reporter>Angelina Simanava</Reporter>
+ <Priority>High</Priority>
+</bugreport>
